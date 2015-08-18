@@ -1,10 +1,10 @@
 package main
 
 import (
-	"com/linux/cmd"
+	"com/linux/cmd/ls"
 	// "fmt"
 )
 
 func main() {
-	cmd.ls.Execute()
+	ls.Execute()
 }

@@ -1,0 +1,31 @@
+
+- ls
+- cat
+- tac
+- tail
+- head
+- cp
+- mv
+- mkdir
+- du
+- touch
+- pwd
+- rm
+
+
+- grep
+- find
+- cal
+- date
+- join
+- nl
+- watch
+- wc
+
+
+*	scp
+*	ssh
+*	telnet
+*	tar
+*	zip
+*	
