@@ -1,16 +1,17 @@
 
-- ls
-- cat
-- tac
+- ls 
+- cat 		[done]
+- tac		
 - tail
 - head
 - cp
 - mv
 - mkdir
 - du
-- touch
+- touch  	[done]
 - pwd
 - rm
+- stat
 
 
 - grep
