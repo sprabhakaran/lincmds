@@ -9,7 +9,7 @@
 - mkdir
 - du
 - touch  	[done]
-- pwd
+- pwd		[done]
 - rm
 - stat
 
